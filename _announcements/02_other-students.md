@@ -1,7 +1,7 @@
 ---
 date: 2025-08-15
 ---
-Students from outside the Statistics PhD program who are interested in taking this course should email the instructor (Ben, benbr at stat dot ubc dot ca) with the following information:
+Students from outside the Statistics PhD program who are interested in taking this course should email the instructor (Ben, benbr at stat dot ubc dot ca, subject line "STAT 548R interest") with the following information:
 
 * Department
 * Program (e.g., MSc, PhD)
