@@ -17,7 +17,6 @@ hide_from_announcments: true
 
 * Meet each other
 * Discuss shared worries + implied assumptions about expectations
-* What is research? What skills are necessary to do research? What is this seminar about?
-* A brief guide to Harvard, and chat with G2s
+* What is research? What skills are necessary to do research? What is this seminar about? What is this seminar not about?
 
 **Further reading (optional)**
