@@ -27,10 +27,18 @@ This course is formally part of the [Qualifying Course (STAT 548A/B)](https://ww
 
 ## Course Policies
 
-**Attendance:**
+**Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time to request an excused absence (in which case you are still expected to complete the pre-class activities). 
+
+**Sickness:** If you are feeling unwell, please stay home and notify the course staff.
 
 
-**Grading:**
+**Grading:** The course grade is based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion.  We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 5 grade points (e.g., 95 -> 90). Each “very late” (> 15 min late) is counted as 1/2 of an unexcused absence. Missing homework can also result in penalties.
+
+
+**Generative AI:** A central part of our work as academic computer scientists is reading, writing, and thinking. We expect you to read, write, and think yourself, and not outsource this to generative AI tools, which will slow your development of these skills. Many assignments will ask you to reflect on your experience, which generative AI is ill-equipped to address. We will not be grading on grammaticallity - the most important thing is for your work to reflect your own voice.
+
+
+**Laptops/Phones:** Laptop/tablet/phone use is acceptable when directly tied to classroom activities. We will occasionally have in-class activities that require access to a device. When not engaging in these activities (or active note-taking), please do not use your devices. If you need to quickly fact-check something, you may do so briefly, and then we ask you to stow your device. Some class periods such as student panels will be designated “no devices,” even for note-taking.
 
 
 **Office Hours:**

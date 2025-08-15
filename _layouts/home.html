@@ -78,7 +78,7 @@ layout: default
         {% endfor %}
     </p>   
     <p>
-        This course is adapted from: 
+        This course is adapted (reuses/repurposes material/activities) from: 
         {% for course in site.data.people.adapts %}
             {% if course.webpage %}
             <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
