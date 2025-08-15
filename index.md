@@ -1,13 +1,13 @@
 ---
 layout: home
 ---
-STAT 548R is a seminar-style course based on reading, discussion, and collaborative learning exercises. The primary goal of the course is to prepare graduate students in Statistics ([and related fields](#target-audience)) to successfully navigate the challenges of the PhD program, with a particular emphasis on the skills and knowledge that are not part of the formal curriculum, often not discussed, and usually learned informally---if at all. 
+STAT 548R is a seminar-style course based on reading, discussion, and collaborative learning exercises. The primary goal of the course is to prepare graduate students in Statistics ([and related fields](#target-audience)) to successfully navigate the challenges of the PhD program, with a particular emphasis on the skills and knowledge that are not part of the standard curriculum, often not discussed, and usually learned informally---if at all. 
 
 The high-level themes of the course will manifest through sessions on:
 
 1. Research skill-building (paper reading and critiquing/reviewing, written and verbal communication)
 2. Soft-skill building (self-regulation and -expectations, managing advisor relationships, supporting your peers)
-3. Academic culture (misconceptions about research, hidden curricula, power dynamics in scientific communities)
+3. Academic culture and the production of knowledge (misconceptions about research, hidden curricula, power dynamics in scientific communities)
 4. How research happens (research as a process, what counts as progress, the review process)
 
 
