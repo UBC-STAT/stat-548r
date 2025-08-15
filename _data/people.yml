@@ -7,3 +7,21 @@ teaching_assistants:
   - name: Fanny Dupont
     profile_pic: /_images/pp/fd.png
     webpage: https://statisticalecology.weebly.com/team.html
+
+adapts:
+- name: Harvard CS2901/2 "Seminar on Effective Research Practices and Culture" and earlier iterations
+  webpage: https://harvard-cs290-2025-26.github.io/
+
+draws:
+  - name: Justine Sherry's seminar "Reading on Research"
+    webpage: https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit
+  - name: Yaniv Yacoby's workshop "How to make the most out of your PhD"
+    webpage: https://yanivyacoby.github.io/a-guide-to-your-phd/
+
+input:
+  - name: Trevor Campbell
+    webpage: https://trevorcampbell.me/
+  - name: Margo Selzer
+    webpage: https://www.seltzer.com/margo/
+  - name: Yaniv Yacoby
+    webpage: https://yanivyacoby.github.io/

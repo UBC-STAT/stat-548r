@@ -64,3 +64,37 @@ layout: default
         </div>
     </div>
 </div>
+
+ <div>
+    <h2>Acknowledgments</h2>
+    <p>
+        There are a number of people we would like to acknowledge for helpful discussions and insights throughout the development of this offering of the course:
+        {% for person in site.data.people.input %}
+            {% if person.webpage %}
+            <span><a href="{{ person.webpage }}" target="_blank">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+            {% else %}
+            <span>{{person.name}}{% unless forloop.last %}, {% endunless %}</span>
+            {% endif %}                
+        {% endfor %}
+    </p>   
+    <p>
+        This course is adapted from: 
+        {% for course in site.data.people.adapts %}
+            {% if course.webpage %}
+            <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+            {% else %}
+            <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
+            {% endif %}                
+        {% endfor %}
+    </p>     
+    <p>
+        This course draws on: 
+        {% for course in site.data.people.draws %}
+            {% if course.webpage %}
+            <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+            {% else %}
+            <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
+            {% endif %}                
+        {% endfor %}
+    </p>
+</div>
