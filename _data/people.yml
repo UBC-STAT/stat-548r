@@ -19,9 +19,9 @@ draws:
     webpage: https://yanivyacoby.github.io/a-guide-to-your-phd/
 
 input:
+  - name: Yaniv Yacoby, who originally created much of this course structure and material when he was a PhD student
+    webpage: https://yanivyacoby.github.io/
   - name: Trevor Campbell
     webpage: https://trevorcampbell.me/
   - name: Margo Selzer
     webpage: https://www.seltzer.com/margo/
-  - name: Yaniv Yacoby
-    webpage: https://yanivyacoby.github.io/
