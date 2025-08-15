@@ -13,6 +13,6 @@ hide_from_announcments: true
 
 **In class:**
 
-* Overview of Qualifying Course with Graduate Advisor [Professor Daniel McDonald](https://dajmcdon.github.io/):target="_blank"}{:rel="noopener noreferrer"}
+* Overview of Qualifying Course with Graduate Advisor [Professor Daniel McDonald](https://dajmcdon.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
 * Q&A on QPs
 
