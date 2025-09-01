@@ -8,10 +8,10 @@ hide_from_announcments: true
 
 **Pre-class work:** (instructions on Canvas)
 
-* Create a slide to introduce yourself, answer survey
+* Create a slide to introduce yourself, answer survey (Canvas)
 * Read [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3){:target="_blank"}{:rel="noopener noreferrer"}
-* Watch [Your Body Language May Shape Who You Are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc){:target="_blank"}{:rel="noopener noreferrer"}
-* Read What you should know about us (the instructors)
+<!-- * Watch [Your Body Language May Shape Who You Are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc){:target="_blank"}{:rel="noopener noreferrer"} -->
+* Read [What you should know about us (the instructors)]({{ site.baseurl }}/what-you-should-know-about-us){:target="_blank"}{:rel="noopener noreferrer"}
 
 **In class:**
 
@@ -19,4 +19,7 @@ hide_from_announcments: true
 * Discuss shared worries + implied assumptions about expectations
 * What is research? What skills are necessary to do research? What is this seminar about? What is this seminar not about?
 
-**Further reading (optional)**
+**Further reading (optional, strongly encouraged to read 1 or 2 that interest you)**
+
+* Terrance Tao, [Does one have to be a genius to do maths?](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/). (Replace "mathematics" with "statistics"---or really anything.)
+* 
