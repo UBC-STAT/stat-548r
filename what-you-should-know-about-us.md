@@ -23,15 +23,7 @@ Students in this course are embarking on a multi-year journey. There will be man
 
 ## We want to see you *even more* when you're struggling, lost, or down
 
-Those of us that finished the PhD had our fair share of struggles throughout (and beyond), 
-and current PhD students are still regularly struggling. 
-We recognize that there are "good" types of struggle---ones that build you up 
-and help you grow---and "bad" types of struggle---ones that don't make you a better researcher
-or person  
-and negatively impact your PhD experience. 
-When things get hard, the worst thing you can do is isolate yourself, 
-and seeking support is the absolute best thing you can do---even if it feels difficult. 
-We can, together, find ways to productively deal with both the good and the bad. 
+Those of us that finished the PhD had our fair share of struggles throughout (and beyond), and current PhD students are still regularly struggling. We recognize that there are "good" types of struggle---ones that build you up and help you grow---and "bad" types of struggle---ones that don't make you a better researcher or person and negatively impact your PhD experience. When things get hard, the worst thing you can do is isolate yourself, and seeking support is the absolute best thing you can do---even if it feels difficult. We can, together, find ways to productively deal with both the good and the bad. 
 
 
 
