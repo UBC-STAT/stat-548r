@@ -8,7 +8,7 @@ hide_from_announcments: true
 
 **Pre-class work:**
 
-* Read your first QP paper deeply, using and answering the guiding questions from [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
+* Read your first QP paper deeply, using and answering the guiding questions from: [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 **In class:**
