@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-09-15T09:30:00
+date: 2025-10-15T09:30:00
 name: Class
 description: 'How to skim a research paper'
 hide_from_announcments: true
