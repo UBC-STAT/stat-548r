@@ -16,3 +16,6 @@ hide_from_announcments: true
 * Practice skimming papers: (don’t read before class!)
   * TBD
   * TBD
+
+**After class:**
+* Want more practice? Find a paper that looks interesting (judging by title and abstract) and answer the guiding questions.

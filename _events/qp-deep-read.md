@@ -15,6 +15,7 @@ hide_from_announcments: true
 
 * In pairs, share what you've learned about your paper.
 	* What is something you misunderstood from skimming?
+	* What are the most important assumptions made in the paper? Why?
 * Update your work plan and timeline.
 
 **After class:**
