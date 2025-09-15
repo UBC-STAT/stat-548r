@@ -14,8 +14,8 @@ hide_from_announcments: true
 * Why think about self-regulated learning
 * How to read a research paper
 * Practice skimming papers: (don’t read before class!)
-  * TBD
-  * TBD
+  * [A Kernel Method for the Two-Sample-Problem](https://proceedings.neurips.cc/paper_files/paper/2006/file/e9fb2eda3d9c55a0d89c98d6c54b5b3e-Paper.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Safe Testing](https://academic.oup.com/jrsssb/article/86/5/1091/7623686){:target="_blank"}{:rel="noopener noreferrer"}
 
 **After class:**
 * Want more practice? Find a paper that looks interesting (judging by title and abstract) and answer the guiding questions.
