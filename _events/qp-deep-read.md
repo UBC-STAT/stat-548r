@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-09-24T09:30:00
+date: 2025-09-24T10:00:00
 name: QP Session
 description: 'Deep read your QP'
 hide_from_announcments: true

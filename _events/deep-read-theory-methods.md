@@ -13,7 +13,7 @@ hide_from_announcments: true
 
 
 **In class:**
-* TBD
+* Practice with [Distinguishing Cause from Effect with Causal Velocity Models](https://arxiv.org/abs/2502.05122){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 
