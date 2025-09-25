@@ -1,7 +1,7 @@
 ---
 type: raw_event
 date: 2025-10-01T09:30:00
-name: Class
+name: QP Session
 description: 'Start writing your QP report'
 hide_from_announcments: true
 ---
