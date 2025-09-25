@@ -9,7 +9,7 @@ hide_from_announcments: true
 **Pre-class work:** (instructions on Canvas)
 
 * Watch [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) (Watch party?)
-* Read Sections 1.1-1.4 from [Steven G. Krantz: A Primer on Mathematical Writing (2nd ed.))](https://arxiv.org/abs/1612.04888)
+* Read Sections 1.1-1.4 from [Steven G. Krantz: A Primer on Mathematical Writing (2nd ed.)](https://arxiv.org/abs/1612.04888)
 * Answer questions on Canvas
 
 
