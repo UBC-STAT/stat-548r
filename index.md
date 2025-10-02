@@ -21,7 +21,7 @@ The course is designed with new PhD students in Statistics in mind, but most of 
 This course is formally part of the [Qualifying Course (STAT 548A/B)](https://www.stat.ubc.ca/phd-qualifying-course){:target="_blank"}{:rel="noopener noreferrer"} for PhD students. In class, we will focus on developing skills and knowledge that will help students indirectly on their Qualifying Papers (QPs). On most Wednesdays through October, there will be QP-specific sessions for Statistics students who are writing QPs. Please see the [schedule]({{ site.baseurl }}/schedule/) for details. 
 
 
-## Course Credit
+<!-- ## Course Credit -->
 
 
 
@@ -43,5 +43,4 @@ This course is formally part of the [Qualifying Course (STAT 548A/B)](https://ww
 
 **Office Hours:**
 
-* Ben: TBD
-* Fanny: TBD
+See Canvas.

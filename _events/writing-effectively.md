@@ -23,3 +23,4 @@ hide_from_announcments: true
 
 * [Terry Tao: On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [Paul Halmos: How to Write Mathematics](https://www.di.ens.fr/~bouillar/Stages/Halmos-How-To-Write.pdf)
+* [Trevor Campbell: How to Explain Things](https://docs.google.com/presentation/d/13vwchlzQAZjjfiI3AiBC_kM-syI6GJKzbuZoLxgy1a4/edit?slide=id.g4fbcbb044c_0_0#slide=id.g4fbcbb044c_0_0)
