@@ -35,6 +35,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 * [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
   - [Aaditya Ramdas: Tips on reading papers](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
 * [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/readings/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
+* [Designing and presenting computational experiments]({{ site.baseurl }}/readings/computational-experiments){:target="_blank"}{:rel="noopener noreferrer"}
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html){:target="_blank"}{:rel="noopener noreferrer"}
 * [Trevor Campbell: How to Explain Things](https://docs.google.com/presentation/d/13vwchlzQAZjjfiI3AiBC_kM-syI6GJKzbuZoLxgy1a4/edit?slide=id.g4fbcbb044c_0_0#slide=id.g4fbcbb044c_0_0)
 * How to (and how not to) review a paper:
