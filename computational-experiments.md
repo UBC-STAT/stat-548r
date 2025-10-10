@@ -115,7 +115,7 @@ No method is perfect. Reviewers are (rightfully) skeptical of a paper that does 
 - When drafting a paper, it can help to insert a detailed sketch of a plot (axis labels, lines/points/bars, etc.) as a placeholder for the real thing. This can help you figure out exactly what experiment you need to run to generate the right plot. 
 - Colors, scales, fonts, etc., matter! Your paper is already hard to understand---don't make it harder. 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-- [Trevor Campbell's talk on "How to Explain Things" addresses some related things:](https://docs.google.com/presentation/d/13vwchlzQAZjjfiI3AiBC_kM-syI6GJKzbuZoLxgy1a4/edit?slide=id.g4fbcbb044c_0_0#slide=id.g4fbcbb044c_0_0)
+- [Trevor Campbell's talk on "How to Explain Things"](https://docs.google.com/presentation/d/13vwchlzQAZjjfiI3AiBC_kM-syI6GJKzbuZoLxgy1a4/edit?slide=id.g4fbcbb044c_0_0#slide=id.g4fbcbb044c_0_0) addresses some related things
 
 
 

@@ -2,7 +2,7 @@
 type: raw_event
 date: 2025-10-15T09:30:00
 name: Class
-description: 'How to read a research paper deeply 2: applications and experiments'
+description: 'Stats/ML experiments: reading and presenting'
 hide_from_announcments: true
 ---
 
@@ -12,6 +12,8 @@ hide_from_announcments: true
 
 **In class:**
 
+- [Designing and presenting computational experiments]({{ site.baseurl }}/readings/computational-experiments){:target="_blank"}{:rel="noopener noreferrer"}
+- Examples
 
 
 **Further reading (optional)**
