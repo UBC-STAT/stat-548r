@@ -10,11 +10,6 @@ hide_from_announcments: true
 
 - Read a paper of your choosing (not your QP). Answer the questions on Canvas.
 - Come to class prepared to describe in detail one of the paper's experiments and present your answers to the Canvas questions.
-<!-- 	* What is its purpose?
-	* What hypothesis is it testing?
-	* What evidence do the results provide in favor of or against the hypothesis? 
-	* What is the conclusion?
-	* How does the experiment fit into the overall paper? -->
 
 
 **In class:**
