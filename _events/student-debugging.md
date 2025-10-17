@@ -12,8 +12,10 @@ hide_from_announcments: true
 
 **In class:**
 
-- Discussion with current PhD students
-_ Note: *No faculty present*
+- Discussion with current PhD students. Note: *No faculty present*
 
+**Additional reading (optional)**
+
+- [Charles Sutton: Research Worth and Self-Worth](https://www.theexclusive.org/2018/04/worth.html)
 
 
