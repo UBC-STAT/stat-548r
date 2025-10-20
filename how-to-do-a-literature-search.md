@@ -4,6 +4,8 @@ title: How to do a Literature Search
 permalink: /readings/how-to-do-a-literature-search/
 ---
 
+**Acknowledgement**: This guide is adapted from (and largely follows) the [guide developed for Harvard's CS 290 course](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-do-a-literature-search/){:target="_blank"}{:rel="noopener noreferrer"}. 
+
 The literature search is likely one of the first foundational skills you’ll practice as a researcher. 
 It provides you **context** for the **significance/implication** of your problem, what makes it **difficult** to solve, 
 what has been **previously done**, and what approach you wish to try. 
