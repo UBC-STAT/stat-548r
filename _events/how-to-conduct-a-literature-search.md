@@ -14,7 +14,7 @@ hide_from_announcments: true
 
 **In class:**
 
-- [Guide on How to Conduct a Literature Search]()
+- [Guide on How to Conduct a Literature Search]({{ site.baseurl }}/readings/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
 - Citations: What to include and how to cite it?
 
 
