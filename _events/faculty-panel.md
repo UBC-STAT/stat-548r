@@ -6,12 +6,10 @@ description: 'Faculty panel'
 hide_from_announcments: true
 ---
 
-**Pre-class work:** (instructions on Canvas)
-
-
 
 **In class:**
 
+- Faculty panel about expectations and experiences
+- Q&A
 
 
-**Further reading (optional)**
