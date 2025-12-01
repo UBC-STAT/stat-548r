@@ -6,8 +6,6 @@ description: 'Student panel: managing advisors and setting healthy self-expectat
 hide_from_announcments: true
 ---
 
-**Pre-class work:** (instructions on Canvas)
-
 
 
 **In class:**
