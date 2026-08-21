@@ -4,9 +4,9 @@ instructors:
     webpage: https://www.stat.ubc.ca/~benbr/
 
 teaching_assistants:
-  - name: Fanny Dupont
-    profile_pic: /_images/pp/fd.png
-    webpage: https://statisticalecology.weebly.com/team.html
+  - name: Johnny Xi
+    profile_pic: /_images/pp/jx.png
+    webpage: https://xijohnny.github.io/
 
 adapts:
 - name: Harvard CS2901/2 "Seminar on Effective Research Practices and Culture" (and earlier iterations)
@@ -25,3 +25,5 @@ input:
     webpage: https://trevorcampbell.me/
   - name: Margo Selzer
     webpage: https://www.seltzer.com/margo/
+  - name: Fanny Dupont (TA, 2025W1)
+    webpage: https://www.linkedin.com/in/fanny-dupont-89301512b/
