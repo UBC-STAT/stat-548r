@@ -10,6 +10,10 @@ hide_from_announcments: true
 * Read: TBD
 <!-- * Read: [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/abs/1610.02351){:target="_blank"}{:rel="noopener noreferrer"} -->
 * Summarize the paper, reflect on your strategy for reading the paper
+* If you have little/no experience typesetting documents in LaTeX, work through some basic training:
+
+  + [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){:target="_blank"}{:rel="noopener noreferrer"}
+  + Courses on LaTeX and Overleaf for beginners at [Overleaf's Learning Center](https://learn.overleaf.com/)
 
 **In Class:** 
 * Why think about self-regulated learning
