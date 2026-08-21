@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-11-03T09:30:00
+date: 2026-10-27T14:30:00
 name: Class
 description: 'Faculty panel'
 hide_from_announcments: true

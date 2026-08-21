@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-09-24T10:00:00
+date: 2026-09-24T14:30:00
 name: QP Session
 description: 'Deep read your QP'
 hide_from_announcments: true
@@ -15,9 +15,13 @@ hide_from_announcments: true
 
 * In pairs, share what you've learned about your paper.
 	* What is something you misunderstood from skimming?
-	* What are the most important assumptions made in the paper? Why?
+	* What are the most important assumptions made in the paper? Why are they made? Why are they important?
 * Update your work plan and timeline.
 
 **After class:**
 
+* Resolve any lingering points of confusion or lack of understanding. This can include:
 
+	+ Searching for related papers/resources that may clarify the point(s).
+	+ Speaking to other students.
+	+ Speaking to the supervising professor (if they have said that you can consult them on such things during the QP process).

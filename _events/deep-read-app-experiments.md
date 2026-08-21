@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-10-15T09:30:00
+date: 2026-10-13T14:30:00
 name: Class
 description: 'Stats/ML experiments: reading and presenting'
 hide_from_announcments: true

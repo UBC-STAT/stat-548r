@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-09-10T09:30:00
+date: 2026-09-10T14:30:00
 name: QP Session
 description: 'Overview of Qualifying Papers'
 hide_from_announcments: true
@@ -9,7 +9,7 @@ hide_from_announcments: true
 **Pre-class work:**
 
 * Read the department webpage on the [PhD Qualifying Course](https://www.stat.ubc.ca/phd-qualifying-course){:target="_blank"}{:rel="noopener noreferrer"}
-* Peruse some of the faculty-listed papers
+* Peruse some of the faculty-listed papers and faculty-specific expectations
 
 **In class:**
 
@@ -18,4 +18,4 @@ hide_from_announcments: true
 
 **After class:**
 
-* Contact a faculty member and meet with them about doing your first qualifying paper with them
+* Browse faculty member QP lists and expectations

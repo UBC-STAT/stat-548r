@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-12-01T09:30:00
+date: 2026-12-01T14:30:00
 name: Class
 description: 'Getting a lot from your PhD - big picture'
 hide_from_announcments: true

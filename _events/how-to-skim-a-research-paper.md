@@ -1,13 +1,14 @@
 ---
 type: raw_event
-date: 2025-09-15T09:30:00
+date: 2026-09-15T14:30:00
 name: Class
 description: 'How to skim a research paper'
 hide_from_announcments: true
 ---
 
 **Pre-class Work:** (detailed instructions on Canvas)
-* Read: [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/abs/1610.02351){:target="_blank"}{:rel="noopener noreferrer"}
+* Read: TBD
+<!-- * Read: [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/abs/1610.02351){:target="_blank"}{:rel="noopener noreferrer"} -->
 * Summarize the paper, reflect on your strategy for reading the paper
 
 **In Class:** 
@@ -19,3 +20,10 @@ hide_from_announcments: true
 
 **After class:**
 * Want more practice? Find a paper that looks interesting (judging by title and abstract) and answer the guiding questions.
+* Meet with one or more faculty members to discuss a potential QP 1.
+* Confirm QP 1 with the supervising faculty member by September 18. Make sure _both of you_ are clear on:
+  
+  + Due date is October 26, 5 pm
+  + Expected deliverables
+  + Expected check-ins (if any)
+  + Parameters/expectations around communication during the QP
