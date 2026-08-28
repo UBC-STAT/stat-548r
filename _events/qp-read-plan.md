@@ -8,8 +8,7 @@ hide_from_announcments: true
 
 **Pre-class work:**
 
-* Skim the paper that you are considering (or have decided on) for your first QP, using and answering the guiding questions from [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
-* Read the paper more deeply
+* Skim the paper that you have decided on for your first QP, using and answering the guiding questions from [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
 * Identify gaps in your understanding and make a plan for addressing them
 
 

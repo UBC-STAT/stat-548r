@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-09-29T14:30:00
+date: 2026-11-17T14:30:00
 name: Class
 description: 'Verbal communication in collaborative research environments'
 hide_from_announcments: true

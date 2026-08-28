@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-09-22T14:30:00
+date: 2026-09-29T14:30:00
 name: Class
 description: 'How to read a research paper deeply 1: theory and methods'
 hide_from_announcments: true

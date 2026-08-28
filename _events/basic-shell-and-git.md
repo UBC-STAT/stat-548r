@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-11-17T14:30:00
+date: 2026-11-24T14:30:00
 name: Class
 description: 'Basic shell and Git'
 hide_from_announcments: true

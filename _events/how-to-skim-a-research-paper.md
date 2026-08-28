@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-09-15T14:30:00
+date: 2026-09-22T14:30:00
 name: Class
 description: 'How to skim a research paper'
 hide_from_announcments: true
@@ -24,10 +24,3 @@ hide_from_announcments: true
 
 **After class:**
 * Want more practice? Find a paper that looks interesting (judging by title and abstract) and answer the guiding questions.
-* Meet with one or more faculty members to discuss a potential QP 1.
-* Confirm QP 1 with the supervising faculty member by September 18. Make sure _both of you_ are clear on:
-  
-  + Due date is October 26, 5 pm
-  + Expected deliverables
-  + Expected check-ins (if any)
-  + Parameters/expectations around communication during the QP

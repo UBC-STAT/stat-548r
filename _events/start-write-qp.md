@@ -2,13 +2,13 @@
 type: raw_event
 date: 2026-10-15T14:30:00
 name: QP Session
-description: 'Continue writing your QP report'
+description: 'Start writing your QP report'
 hide_from_announcments: true
 ---
 
 **Pre-class work:**
 
-* Make edits/updates based on feedback from last week
+* Write a draft of the first few sections of your QP report (introduction, overview, synthesis)
 * Add placeholders for the remaining sections (including a few sentences describing their purpose)
 
 
