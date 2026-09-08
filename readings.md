@@ -30,10 +30,10 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
-* [Aaditya Ramdas has a number of helpful "checklists" for PhD students](https://www.stat.cmu.edu/~aramdas/checklists.html)
+* [Aaditya Ramdas has a number of helpful "checklists" for PhD students](https://web.stanford.edu/~aramdas/checklists.html)
 * [Terrance Tao has "career advice" at many levels of education](https://terrytao.wordpress.com/career-advice/)
 * [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
-  - [Aaditya Ramdas: Tips on reading papers](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
+  - [Aaditya Ramdas: Tips on reading papers](https://web.stanford.edu/~aramdas/checklists/reading-tips.pdf)
 * [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/readings/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
 * [Designing and presenting computational experiments]({{ site.baseurl }}/readings/computational-experiments){:target="_blank"}{:rel="noopener noreferrer"}
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html){:target="_blank"}{:rel="noopener noreferrer"}
@@ -44,9 +44,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   * [Last minute reviewing advice](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/){:target="_blank"}{:rel="noopener noreferrer"}
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html){:target="_blank"}{:rel="noopener noreferrer"}
 * [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM){:target="_blank"}{:rel="noopener noreferrer"}
-<!-- * About Graduate fellowship opportunities in Computer Science:
-  * Lists of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships){:target="_blank"}{:rel="noopener noreferrer"}, by [CMU](https://www.cs.cmu.edu/~gradfellowships/){:target="_blank"}{:rel="noopener noreferrer"}, and by [NC State](https://www.csc.ncsu.edu/dgp/fellowships.html){:target="_blank"}{:rel="noopener noreferrer"}
-  * Fellowship advice compiled by [Harvard](https://gsas.harvard.edu/financial-support/fellowships){:target="_blank"}{:rel="noopener noreferrer"} and by [MIT](https://oge.mit.edu/finances/fellowships/fellowship-tips/){:target="_blank"}{:rel="noopener noreferrer"}.  -->
+
 
 
 
