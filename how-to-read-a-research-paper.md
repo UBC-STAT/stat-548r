@@ -24,6 +24,7 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 * **Then, a deeper read** (if the paper seems relevant). 
 * **Don't read font-to-back -- read for answers to the "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
 * **Read actively.** Reading a paper is not a passive process. Compare what the paper says with what you already know, and when you find a contradiction, try to understand where it comes from (e.g., an assumption?). Draw pictures / diagrams of what the paper describes as you're reading to check your understanding against the paper -- often you'll find that in doing so, you will be able to translate a general feeling of confusion into concrete questions that, if resolved, will give you a clear understanding of the paper. 
+* **Trust (and pay attention to) your intuition.** A contradiction, an inconsistency, or something you don't understand will often register first as a feeling, rather than something you can articulate clearly. When you notice this, mark the paper and pause to see if you can convert the intuition into something specific. It may take some time for things to clarify. 
 * **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. If you can identify a specific gap in understanding, you will be able to address it directly. We recommend that you try to **fill in the gap** by looking for related papers (e.g., ones cited by the paper you're reading, ones that share key-terms on google), wikipedia pages, blog posts, lectures on youtube, etc. For papers that are very long, you may additionally find shorter conference versions that convey the general story more concisely and may contain all you need. For technical material used in the paper, finding a good textbook can help. (Does the paper cite one?) There's no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
 
 ### Stay organized -- keep track of what you've already read:
@@ -55,6 +56,8 @@ By practicing answering these questions for every paper you read, you will pract
 By understanding the type of the paper, you can anticipate its structure and evaluation, which will help you determine which parts to 
 on during your initial skim. (Many papers will have aspects of multiple of these.)
 * Big idea 
+  * If defining a new problem, these papers may spend a lot of time arguing that the problem is important
+  * Look for how the paper positions itself relative to previous work
 * "Small" idea with evaluation (most papers)
   * Improved implementation of an existing method
   * Fixes a shortcoming of an existing method
@@ -73,20 +76,20 @@ on during your initial skim. (Many papers will have aspects of multiple of these
 * Is the paper in a statistics journal (theory, methods, applications?), a machine learning conference, or another venue?
   - The venue will affect how the paper is written (target audience, conventions, etc.), how results are presented, what the relevant literature is, etc.
 
-### Motivation and Potential Impact 
+### What is the motivation? What are the potential impacts? 
 * What is the problem the paper addresses?
 * Why is this problem important?
 * If a theory or methods paper, what are the formal definitions and assumptions, and how well do they capture the phenomenon of interest?
 
-### Related Work and Contributions 
+### How does the paper relate to previous work, and what are its contributions?
 * How is the problem traditionally solved?
 * Why are existing approaches not good enough?
 * At a high level, how does the paper address the problem?
 * Can the ideas or techniques from this paper be used to address other problems?
 
-### Results (Theory and/or Experiments)
+### What are the main results?
 * Theory
-  - What types of theory is developed? (E.g., properties of a new model, statistical theory for a method, etc.)
+  - What types of theory are developed? (E.g., properties of a new model, statistical theory for a method, etc.)
   - What are the main theorems in the paper?
   - Is there a new proof technique?
   - At a high level, how do the theorems relate to earlier results?
@@ -101,7 +104,7 @@ on during your initial skim. (Many papers will have aspects of multiple of these
   - What is the experimental design?
   - At a high level, what are the results?
 
-### Broader Impact
+### What are the broader impacts?
 * Identify the relevant socio-technical systems
   - Where could the technology be deployed, or which kind of technology is informed by the paper (if a theoretical paper)?
   - How would this technology be used?
